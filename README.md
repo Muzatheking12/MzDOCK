@@ -24,7 +24,7 @@ MzDOCK - An Automated GUI based pipeline for Molecular Docking
 
 # Architecture
 
-<p>The Software is developed with Python and Batch Script Connections.Its Currently compatible on Windows </p>
+<p>The Software is developed with Python and Batch Scripts. Its Currently compatible on Windows </p>
 <p align="left" width="100" >
     <img src="Img/win.png" width= "100" >
 </p>
