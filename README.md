@@ -9,7 +9,7 @@
 # MzDOCK
 <h2> An Automated GUI based pipeline for Molecular Docking </h2>
 <h4> Install MzDOCK (357 MB) with the link below: </h4>
-<a href="https://drive.google.com/file/d/1YcI0yOU6V1KjNjJtH006rPlK4jmQrxQl/view?usp=drive_link"> SETUP </a>
+<a href="https://sourceforge.net/projects/mzdock/"> SETUP </a>
 <h4>Features</h4>
  <li>Multiple Ligand Docking</li>
  <li>Flexible Docking(Induced Fit)</li>
