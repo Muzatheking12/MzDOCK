@@ -26,7 +26,7 @@
 
 # Architecture
 
-<p>The Software is developed with Python and Batch Scripts. Currently compatible on Windows </p>
+<p>MzDOCK is developed with Python and Batch Scripts. Currently compatible on Windows </p>
 <p align="left" width="100" >
     <img src="Img/win.png" width= "100" >
 </p>
