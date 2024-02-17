@@ -31,7 +31,7 @@ MzDOCK - An Automated GUI based pipeline for Molecular Docking
 
 # User Guide
 <p>Click the given link below :</p>
-<a href="Img/guide.docx"> USER GUIDE </a>
+<a href="USER GUIDE/guide.docx"> USER GUIDE </a>
 
 # Cite Us
 # Installation
