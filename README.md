@@ -18,8 +18,8 @@ MzDOCK - An Automated GUI based pipeline for Molecular Docking
 
 # GUI Preview
 
-<p align="center" width="100%">
-    <img src="Img/icon.ico" width="100">
+<p align="left" >
+    <img src="Img/damnson.png" >
 </p>
 
  
