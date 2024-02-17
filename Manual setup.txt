@@ -1,0 +1,31 @@
+Its always preferable to install via the setup. If you want to build manually
+
+step 1
+python used 3.11.8
+pip install the requirements.txt
+manually place the AutodockTools python3 translation folders on the site-package folder of python Folder name - AutoDockTools, Pybabel, Molkit and mglutil
+
+step 2 
+make anaconda 2 environment
+
+1st env
+-conda install -c conda-forge smina
+-conda install -c conda-forge openbabel
+
+2nd env
+- conda install -c conda-forge plip
+- conda install -c conda-forge pymol-open-source
+
+extract both environement separetely using conda-pack
+tar -xzvf the tar.gz compressed output of conda-pack in cmd
+name env1 as hey
+name env2 as heya1
+put both in G directory in MzDOCK
+
+Run python script MzDOCK.py from the MzDOCK folder
+
+
+
+
+
+
