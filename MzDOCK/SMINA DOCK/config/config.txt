@@ -1,5 +1,0 @@
-receptor = protein.pdbqt
-
-autobox_ligand = co.pdbqt
-
-

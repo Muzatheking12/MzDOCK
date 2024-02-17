@@ -1,5 +1,0 @@
-==============================
-*** Open Babel Warning  in OpenBabel::OBMol::PerceiveBondOrders
-  Failed to kekulize aromatic bonds in OBMol::PerceiveBondOrders (title is ./3tmz.pdb)
-
-1 molecule converted
