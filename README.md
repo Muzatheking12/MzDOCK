@@ -1,5 +1,5 @@
 <p align="left" width="100%">
-    <img src="src/icons/logo.svg" width="100">
+    <img src="Img/icon.ico" width="100">
 </p>
 
 
@@ -15,3 +15,11 @@ MzDOCK - An Automated GUI based pipeline for Molecular Docking
  <li>Various Ligand Input File Formats(.pdb,.sdf,.mol,.mol2,SMILES), Energy Optimization using Forcefields (MMFF94, MMFF94s,UFF,GAFF and Ghemical)</li>
  <li>Option to include Ions and Cofactors, Retain Water in the Protein</li>
  <li>Good Analysis report of protein-ligand complex</li>
+
+# GUI Preview
+
+<p align="center" width="100%">
+    <img src="Img/icon.ico" width="100">
+</p>
+
+ 
