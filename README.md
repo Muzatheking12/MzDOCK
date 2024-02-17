@@ -22,4 +22,11 @@ MzDOCK - An Automated GUI based pipeline for Molecular Docking
     <img src="Img/damnson.png" >
 </p>
 
+# Architecture
+
+<p>The Software is developed with Python and Batch Script Connections. The Software can be installed using a installer link given below . Its Currently compatible on Windows </p>
+<p align="left" width="100" >
+    <img src="Img/damnson.png" width= "100" >
+</p>
+
  
