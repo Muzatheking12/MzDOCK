@@ -1,11 +1,6 @@
 <p align="center" width="100%">
     <img src="src/icons/logo.svg" width="100">
 </p>
-<h1 align="center">MzDOCK</h1>
-<p align="center">
-    <em>A GUI Based Pipeline For Molecular Docking</em>
-</p>
-
 
 
 
