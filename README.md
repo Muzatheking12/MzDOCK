@@ -42,8 +42,8 @@
 
 <h2>Authors</h2>
 <li>Muzammil Kabier - kabeermuzammil614@gmail.com </li>
-<li>Dr Bijo Mathew - bijomathew@aims.amrita.edu </li>
-<li>Dr Orazio Nicolotti - orazio.nicolotti@uniba.it </li>
+<li>Prof. Dr. Bijo Mathew - bijomathew@aims.amrita.edu </li>
+<li>Prof. Dr. Orazio Nicolotti - orazio.nicolotti@uniba.it </li>
 
 <p align="left" width="100" >
     <img src="Img/amrit.png">
