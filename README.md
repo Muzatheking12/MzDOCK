@@ -45,8 +45,9 @@
 <li>Dr Bijo Mathew - bijomathew@aims.amrita.edu </li>
 <li>Dr Orazio Nicolotti - orazio.nicolotti@uniba.it </li>
 
-<p aligh="left" width="100" >
-    <img src=
+<p align="left" width="100" >
+    <img src="Img/amrit.png"  >
+    <img src="Img/uniba.png"  >
 </p>
 
 
