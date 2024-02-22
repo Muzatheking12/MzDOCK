@@ -41,9 +41,9 @@
 # Contact Us
 
 <h2>Authors</h2>
-<li><a href="kabeermuzammil614@gmail.com" > Muzammil Kabier </a></li>
-<li><a href="bijovilaventgu@gmail.com" > Dr Bijo Mathew </a></li>
-<li><a href="orazio.nicolotti@uniba.it" > Dr Orazio Nicolotti </a></li>
+<li>Muzammil Kabier - kabeermuzammil614@gmail.com </li>
+<li>Dr Bijo Mathew - bijovilaventgu@gmail.com  </li>
+<li>Dr Orazio Nicolotti - orazio.nicolotti@uniba.it </li>
 
 
 
