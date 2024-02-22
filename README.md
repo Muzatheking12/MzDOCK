@@ -42,8 +42,12 @@
 
 <h2>Authors</h2>
 <li>Muzammil Kabier - kabeermuzammil614@gmail.com </li>
-<li>Dr Bijo Mathew - bijovilaventgu@gmail.com  </li>
+<li>Dr Bijo Mathew - bijomathew@aims.amrita.edu </li>
 <li>Dr Orazio Nicolotti - orazio.nicolotti@uniba.it </li>
+
+<p aligh="left" width="100" >
+    <img src=
+</p>
 
 
 
