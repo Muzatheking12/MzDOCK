@@ -47,7 +47,7 @@
 
 <p align="left" width="100" >
     <img src="Img/amrit.png"  >
-    <img src="Img/uniba.png"  >
+    <img src="Img/unibax.png"  >
 </p>
 
 
