@@ -23,6 +23,7 @@ name env2 as heya1
 put both in G directory in MzDOCK
 
 Run python script MzDOCK.py from the MzDOCK folder
+Request for MzDOCK.py by sending an email to kabeermuzammil614@gmail.com
 
 
 
