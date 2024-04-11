@@ -1,4 +1,10 @@
-Its always preferable to install via the setup. If you want to build manually
+Its always preferable to install via the setup. 
+The download button is given in the main page of this repo.
+'Download Now' green button which redirects to Sourceforge
+
+
+If you want to build manually
+
 
 step 1
 python used 3.11.8
