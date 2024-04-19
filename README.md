@@ -38,7 +38,7 @@
 
 # User Guide
 <p>Click the given link below :</p>
-<a href="USER GUIDE/manual.pdf"> USER GUIDE </a>
+<a href="USER GUIDE/Manual.pdf"> USER GUIDE </a>
 
 # Cite Us
 
