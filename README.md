@@ -41,6 +41,7 @@
 <a href="USER GUIDE/Manual.pdf"> USER GUIDE </a>
 
 # Cite Us
+<p>Kabier M, Gambacorta N, Trisciuzzi D, Kumar S, Nicolotti O*, Mathew B*. MzDOCK: a free ready-to-use GUI-based pipeline for molecular docking simulations. Journal of Computational Chemistry 2024  DOI: 10.1002/jcc.27390</p>
 
 # Contact Us
 
