@@ -49,6 +49,9 @@
 <li>Muzammil Kabier - kabeermuzammil614@gmail.com </li>
 <li>Prof. Dr. Bijo Mathew - bijomathew@aims.amrita.edu </li>
 <li>Prof. Dr. Orazio Nicolotti - orazio.nicolotti@uniba.it </li>
+<li>Dr. Nicola Gambacorta - nicola.gambacorta1@uniba.it </li>
+<li>Dr. Daniela Trisciuzzi - daniela.trisciuzzi@uniba.it</li>
+<li>Sunil Kumar - solankimedchem@gmail.com</li>
 
 <p align="left" width="100" >
     <img src="Img/amrit.png">
