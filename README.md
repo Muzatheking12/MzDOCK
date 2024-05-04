@@ -55,8 +55,7 @@
 <li>Sunil Kumar - solankimedchem@gmail.com</li>
 
 <p align="left" width="100" >
-    <img src="Img/amrit.png">
-    <img src="Img/unibax.png">
+    <img src="Img/promo.png">
 </p>
 
 
