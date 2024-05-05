@@ -39,6 +39,7 @@
 # User Guide
 <p>Click the given link below :</p>
 <a href="USER GUIDE/Manual.pdf"> USER GUIDE </a>
+
 <p> Youtube Tutorial on "How To Use MzDOCK". Click on the link below:</p>
 <a href="https://youtu.be/4iwza_4BiKc?si=vQ4HCPgz96av54Ls"> Tutorial </a>
 
