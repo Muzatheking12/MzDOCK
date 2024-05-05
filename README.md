@@ -49,7 +49,7 @@
 
 # Cite Us
 <p align="left" >
-    <img src="Img/journal.png" href="https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.27390" >
+    <img href="https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.27390" src="Img/journal.png"  >
 </p>
 <p>Kabier M, Gambacorta N, Trisciuzzi D, Kumar S, Nicolotti O*, Mathew B*. MzDOCK: a free ready-to-use GUI-based pipeline for molecular docking simulations. Journal of Computational Chemistry 2024  DOI: 10.1002/jcc.27390</p>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.27390"> Go to Article </a>
