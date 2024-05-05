@@ -37,11 +37,12 @@
 </p>
 
 # User Guide
-<p>Click the given link below :</p>
-<a href="USER GUIDE/Manual.pdf"> USER GUIDE </a>
+<p>Click the given link below :<br><a href="USER GUIDE/Manual.pdf"> USER GUIDE </a></p>
 
-<p> Youtube Tutorial on "How To Use MzDOCK". Click on the link below:</p>
-<a href="https://youtu.be/4iwza_4BiKc?si=vQ4HCPgz96av54Ls"> Tutorial </a>
+
+<p>Youtube Tutorial on "How To Use MzDOCK". Click on the link below:<br><a href="https://youtu.be/4iwza_4BiKc?si=vQ4HCPgz96av54Ls"> Tutorial </a>
+</p>
+
 
 # Cite Us
 <p>Kabier M, Gambacorta N, Trisciuzzi D, Kumar S, Nicolotti O*, Mathew B*. MzDOCK: a free ready-to-use GUI-based pipeline for molecular docking simulations. Journal of Computational Chemistry 2024  DOI: 10.1002/jcc.27390</p>
