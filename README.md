@@ -31,17 +31,20 @@
 
 # Architecture
 
-<p>MzDOCK is developed with Python and Batch Scripts. Currently compatible on Windows </p>
+<p>MzDOCK is developed with Python and Batch Scripts.<br> Currently compatible on Windows. </p>
 <p align="left" width="100" >
     <img src="Img/win.png" width= "100" >
 </p>
 
 # User Guide
-<p>Click the given link below :<br><a href="USER GUIDE/Manual.pdf"> USER GUIDE </a></p>
+<p>Click the given link below :<br> <a href="USER GUIDE/Manual.pdf"> USER GUIDE </a></p>
+
+<p>Youtube Tutorial on "How To Use MzDOCK". Click On The Button Below :</p>
+<a href="https://youtu.be/4iwza_4BiKc?si=vQ4HCPgz96av54Ls">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial">
+</a>
 
 
-<p>Youtube Tutorial on "How To Use MzDOCK". Click on the link below:<br><a href="https://youtu.be/4iwza_4BiKc?si=vQ4HCPgz96av54Ls"> Tutorial </a>
-</p>
 
 
 # Cite Us
