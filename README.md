@@ -12,7 +12,7 @@
 
 # MzDOCK
 <h2> An Automated GUI based pipeline for Molecular Docking </h2>
-<h4> Install MzDOCK (448 MB) by clicking on the button below: </h4>
+<h4> Install MzDOCK (451 MB) by clicking on the button below: </h4>
 <p><a href="https://sourceforge.net/projects/mzdock/files/latest/download"><img alt="Download MzDOCK" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a> <br>
 <a href="https://sourceforge.net/projects/mzdock/files/latest/download"><img alt="Download MzDOCK" src="https://img.shields.io/sourceforge/dt/mzdock.svg" ></a></p>
 <h4>Features</h4>
