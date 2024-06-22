@@ -22,6 +22,9 @@
  <li>Various Ligand Input File Formats(.pdb,.sdf,.mol,.mol2,SMILES), Energy Optimization using Forcefields (MMFF94, MMFF94s,UFF,GAFF and Ghemical)</li>
  <li>Option to include Ions and Cofactors, Retain Water in the Protein</li>
  <li>Good Analysis report of protein-ligand complex</li>
+<li>Integrated With Pymol-open-source for visualization</li>
+<li>Combinatorial Molecule Generation With Scaffold </li>
+<li>Integrated With Molecule Drawing Tool - JSME Editor </li>
 
 # GUI Preview
 
