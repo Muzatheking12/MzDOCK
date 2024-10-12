@@ -17,7 +17,7 @@
 <a href="https://sourceforge.net/projects/mzdock/files/latest/download"><img alt="Download MzDOCK" src="https://img.shields.io/sourceforge/dt/mzdock.svg" ></a></p>
 <h4>Features</h4>
  <li>Multiple Ligand Docking</li>
- <li>Flexible Docking(Induced Fit)</li>
+ <li>Flexible Docking</li>
  <li>Co-crystallized Ligand Based Binding Site Configuration</li>
  <li>Various Ligand Input File Formats(.pdb,.sdf,.mol,.mol2,SMILES), Energy Optimization using Forcefields (MMFF94, MMFF94s,UFF,GAFF and Ghemical)</li>
  <li>Option to include Ions and Cofactors, Retain Water in the Protein</li>
