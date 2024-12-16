@@ -41,7 +41,7 @@
 <p>MzDOCK is developed with Python and Batch Scripts.<br>Compatible on Windows and Linux (ubuntu 22.04 and more). </p>
 <p align="left" width="100" >
     <img src="Img/win.png" width= "100" >
-    <img src="Img/win.png" width= "100" >
+    <img src="Img/wellned.jpg" width= "100" >
 </p>
 
 # User Guide
