@@ -33,13 +33,14 @@
 # GUI Preview
 
 <p align="left" >
-    <img src="Img/damnson.png" >
+    <img src="Img/newgui.png" >
 </p>
 
 # Architecture
 
-<p>MzDOCK is developed with Python and Batch Scripts.<br> Currently compatible on Windows. </p>
+<p>MzDOCK is developed with Python and Batch Scripts.<br>Compatible on Windows and Linux (ubuntu 22.04 and more). </p>
 <p align="left" width="100" >
+    <img src="Img/win.png" width= "100" >
     <img src="Img/win.png" width= "100" >
 </p>
 
