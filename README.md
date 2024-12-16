@@ -81,8 +81,14 @@ chmod -R +x ./target_directory/usr/bin/*
 ./MzDOCK
 
 ```
+<h3>Pymol doesnt launch from the pymol button in linux, but there is a way (given below) </h3>
 
+```sh
+#In seperate terminal
+cd ./usr/bin/G/hey/bin
+./pymol
 
+```
 
 
 # Cite Us
