@@ -90,6 +90,7 @@ cd ./usr/bin/G/hey/bin
 
 ```
 
+<p> To open molecule sketching or customize scoring function file , you would need xdg-open, sudo apt install xdg-open </p>
 
 # Cite Us
 <p align="left" >
