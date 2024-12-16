@@ -52,6 +52,36 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial">
 </a>
 
+# Installation
+<h3>For Windows</h3>
+<p>Download the installer from Sourceforge (green button given above) and install in your system.</p>
+<h3>For Linux</h3>
+<p>Download the DEB file from Sourceforge (green button given above) and follow the commands given below:.</p>
+
+```sh
+#Permission
+chmod +x ./MzDOCKubuntu.deb
+
+```
+
+```sh
+#Extract files from deb into target directory
+dpkg --extract ./MzDOCKubuntu.deb {target_directory}
+
+```
+
+```sh
+#Give permission to all files inside(since many bash scripts)
+chmod -R +x ./target_directory/usr/bin/*
+
+```
+
+```sh
+#Start MzDOCK
+./MzDOCK
+
+```
+
 
 
 
