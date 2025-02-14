@@ -29,6 +29,7 @@
 <li>Generation of Ramachandran Plot</li>
 <li>Availability of Multiple Scoring Functions (Vina, Vinardo, Smina, AD4 etc)</li>
 <li>Customizing Scoring Function by Adjusting Wieghts to Specified Terms</li>
+<li>Automatic cognate redocking with RMSD calculation</li>
 
 # GUI Preview
 
