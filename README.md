@@ -55,7 +55,7 @@
 
 # Error you might face:
 
-<li> <b> Sometimes, the High DPI setting might get shruken or distort the GUI. so to change this go to desktop icon -> properties -> compatability tab -> change High DPI settiing -> check the checkbox for High DPI setting and in the combobox below , change from Application to System Enhanced. And try to open the App again. It would fix the issue </b> </li>
+<li> <b> Sometimes, the High DPI setting might get shruken or distort the GUI. so to change this go to desktop icon (right click) -> properties -> compatability tab -> change High DPI settiing -> check the checkbox for High DPI setting and in the combobox below , change from Application to System Enhanced. And try to open the App again. It would fix the issue </b> </li>
 
 # Installation
 <h3>For Windows</h3>
