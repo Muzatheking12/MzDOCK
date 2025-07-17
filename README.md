@@ -53,6 +53,10 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial">
 </a>
 
+# Error you might face:
+
+<li> Sometimes, the High DPI setting might get shruken or distort the GUI. so to change this, go to desktop icon -> properties -> compatability tab -> change High DPI settiing -> check the checkbox for Hugh DPI setting and in the combobox below , change from Application to System Enhanced. And try to open the App again. It would fix the issue </li>
+
 # Installation
 <h3>For Windows</h3>
 <p>Download the installer from Sourceforge (green button given above) and install in your system.</p>
