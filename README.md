@@ -34,7 +34,7 @@
 # GUI Preview
 
 <p align="left" >
-    <img src="Img/newgui.png" >
+    <img src="Img/newguix.png" >
 </p>
 
 # Architecture
