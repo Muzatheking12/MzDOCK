@@ -21,15 +21,16 @@
  <li>Co-crystallized Ligand Based Binding Site Configuration</li>
  <li>Various Ligand Input File Formats(.pdb,.sdf,.mol,.mol2,SMILES), Energy Optimization using Forcefields (MMFF94, MMFF94s,UFF,GAFF and Ghemical)</li>
  <li>Option to include Ions and Cofactors, Retain Water in the Protein</li>
- <li>Comprehensive Analysis report of protein-ligand complex</li>
+ <li>Comprehensive Analysis report of protein-ligand complex (PLIP 3D and 2D)</li>
 <li>Integrated With Pymol-open-source for visualization</li>
-<li>Combinatorial Molecule Generation With Scaffold </li>
+<li>Cummulative Per Atom Scoring Term Contribution</li>
 <li>Integrated With Molecule Drawing Tool - JSME Editor </li>
 <li>Fixing Missing Heavy Atoms and Side Chains</li>
 <li>Generation of Ramachandran Plot</li>
 <li>Availability of Multiple Scoring Functions (Vina, Vinardo, Smina, AD4 etc)</li>
 <li>Customizing Scoring Function by Adjusting Wieghts to Specified Terms</li>
 <li>Automatic cognate redocking with RMSD calculation</li>
+<li>Iterative Redocking Across SF (Box Plot)</li>
 
 # GUI Preview
 
