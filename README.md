@@ -115,9 +115,7 @@ cd ./usr/bin/G/hey/bin
 <li>Dr. Daniela Trisciuzzi - daniela.trisciuzzi@uniba.it</li>
 <li>Sunil Kumar - solankimedchem@gmail.com</li>
 
-<p align="left" width="100" ><br>
-    <img src="Img/promo.png">
-</p>
+
 
 
 
